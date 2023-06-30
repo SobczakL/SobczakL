@@ -15,9 +15,9 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="margin:0 auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="margin:0 auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="margin:0 auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
@@ -28,6 +28,20 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+#
+
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=gruvbox)
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=gruvbox)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Lucas' Coding Journey</h3></summary>
+ In 2020, during the pandemic, I discovered Python as a way to pass the time. To my surprise, I quickly fell in love with coding and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of interacting with what I created. This ignited my self-study journey, where I delved into using Python to interact with my operating system and embarked on Harvard's open-source CS101 course. 
+ <br/>
+ Initially, I never considered coding as a potential career due to my misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to change gears and take my learning more seriously. Leaving my self-doubts behind, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge. 
+ <br/>
+ Balancing my career and routine proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this coding journey. It has not only allowed me to grow my skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
+ <br/>
+ Every day, I strive to push myself further on this lifelong journey of skill improvement. Coding has become an integral part of my life, and I am excited to see where it leads me next.
