@@ -35,7 +35,7 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=gruvbox)
 
-#
+# 
 
 <details>
  <summary><h3>👨‍💻 Lucas' Coding Journey</h3></summary>
