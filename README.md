@@ -32,7 +32,7 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
 
 ### 📊 Stats
 
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=dracula)
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=monokai)
 
 # 
 
