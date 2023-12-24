@@ -49,5 +49,5 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
  </p>
  <br/>
  <p>
- Every day, I strive to push myself further on this lifelong journey of skill improvement. Coding has become an integral part of my life, and I am excited to see where it leads me next.
+ Every day, I strive to push myself further, programming has become an integral part of my life and has positively impacted my overall wellbeing. Throughout my learning, I have noticed a change in my own thinking process adopted through my studies: I have further nurtured my curiosity, strengthened my problem solving skills, and brought light to a tenacity to one day be a leader in the space. I look forward to what lays ahead in this lifelong journey.
  </p>
