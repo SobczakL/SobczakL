@@ -38,14 +38,14 @@ I'm a full-stack developer dedicated to crafting tech-driven solutions for our i
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- <p>In 2020, during the pandemic, I began to learn Python as a way to pass the time. To my surprise, I quickly fell in love with coding and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of interacting with what I created. This ignited my self-study journey, where I delved into using Python to interact with my operating system and embarked on Harvard's open-source CS101 course.</p>
+ <p>In 2020, during the pandemic, I began to learn Python as a way to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of interacting with what I created. This ignited my self-study journey, where I delved into using Python to interact with my operating system and begun Harvard's open-source CS101 course.</p>
  <br/>
  <p>
- Initially, I never considered coding as a potential career due to my misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to change gears and take my learning more seriously. Leaving my self-doubts behind, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge. 
+ Initially, I never considered programming as a potential career due to my misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to change gears and take my learning more seriously. Leaving my self-doubts behind, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge. 
  </p>
  <br/>
  <p>
- Balancing my career and routine proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this coding journey. It has not only allowed me to grow my skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
+ Balancing my career and routine proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
  </p>
  <br/>
  <p>
