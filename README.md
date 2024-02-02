@@ -30,12 +30,6 @@ I'm a full-stack developer dedicated to creating tech-driven solutions for our i
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### 📊 Stats
-
-![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=SobczakL&show_icons=true&theme=monokai&hide=issues,contribs)
-
-# 
-
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  <p>In 2020, during the pandemic, I began to learn Python as a way to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of interacting with what I created. This ignited my self-study journey, where I delved into using Python to interact with my operating system and begun Harvard's open-source CS101 course.</p>
