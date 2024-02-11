@@ -41,7 +41,7 @@ I'm a full-stack developer dedicated to creating tech-driven solutions for our i
  </p>
  <br/>
  <p>
- Balancing my career and routine proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
+ Balancing my career and studying schedule proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
  </p>
  <br/>
  <p>
