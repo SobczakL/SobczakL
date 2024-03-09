@@ -44,6 +44,7 @@ I'm a full-stack developer dedicated to creating tech-driven solutions for our i
  Balancing my career and studying schedule proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
  </p>
  <br/>
+
  <p>
  Every day, I strive to push myself further, programming has become an integral part of my life and has positively impacted my overall wellbeing. Throughout my learning, I have noticed a change in my own thinking process adopted through my studies: I have further nurtured my curiosity, strengthened my problem solving skills, and brought light to a tenacity to one day be a leader in the space. I look forward to what lays ahead in this lifelong journey.
  </p>
