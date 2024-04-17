@@ -1,6 +1,6 @@
 # 🔭 Lucas Sobczak
 
-**`Full Stack Developer`**
+**`Frontend Developer`**
 
 I'm a full-stack developer dedicated to creating tech-driven solutions for our interconnected world. With a diverse background spanning various industries such as kitchen management, luxury retail sales, and retail buying at Canada's largest bookstores, I bring a unique perspective to problem-solving. As a lifelong learner, I embrace new technologies and industry trends in order to continuously enhance my expertise. I'm excited to collaborate with likeminded individuals and aim to create innovative solutions that address real-world challenges.
 
