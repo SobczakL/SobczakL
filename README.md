@@ -36,17 +36,16 @@ I am a software developer passionate about creating tech-driven solutions for ou
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- <p>In 2020, during the COVID-19 pandemic, I began to learn Python as a way to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of interacting with what I created. This ignited my self-study journey, where I delved into using Python to interact with my operating system and begun Harvard's open-source CS101 course.</p>
- <br/>
- <p>
- Initially, I never considered programming as a potential career due to my misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to change gears and take my learning more seriously. Leaving my self-doubts behind, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge. 
- </p>
- <br/>
- <p>
- Balancing my career and studying schedule proved challenging, but I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and boosted my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
- </p>
- <br/>
-
- <p>
- Every day, I strive to push myself further, programming has become an integral part of my life and has positively impacted my overall wellbeing. Throughout my learning, I have noticed a change in my own thinking process adopted through my studies: I have further nurtured my curiosity, strengthened my problem solving skills, and brought light to a tenacity to one day be a leader in the space. I look forward to what lays ahead in this lifelong journey.
- </p>
+ <p>In 2020, during the COVID-19 pandemic, I began learning Python to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of bringing my creations to life. This ignited my self-study journey, where I delved into using Python to interact with my operating system and began Harvard's open-source CS101 course.</p>
+<br/>
+<p>
+Initially, I never considered programming as a potential career due to misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to take my learning more seriously. Overcoming my self-doubts, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge.
+</p>
+<br/>
+<p>
+Balancing my career and study schedule proved challenging, so I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and increased my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
+</p>
+<br/>
+<p>
+Every day, I strive to push myself further. Programming has become an integral part of my life and has positively impacted my overall well-being. Throughout my learning journey, I have noticed significant changes in my thinking process: I have nurtured my curiosity, strengthened my problem-solving skills, and developed a tenacity that drives me to one day become a leader in the field. I look forward to what lies ahead in this lifelong journey.
+</p>
