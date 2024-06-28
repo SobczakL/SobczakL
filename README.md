@@ -1,4 +1,4 @@
-# 🔭 Lucas Sobczak
+# ⌨️ Lucas Sobczak
 
 **`Software Developer`**
 
