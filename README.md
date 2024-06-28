@@ -2,7 +2,9 @@
 
 **`Software Developer`**
 
-I'm a software developer dedicated to creating tech-driven solutions for our interconnected world. With a diverse background spanning various industries such as kitchen management, luxury retail sales, and retail buying, I bring a unique perspective to problem-solving. As a lifelong learner, I embrace new technologies and industry trends in order to continuously enhance my expertise. I'm excited to collaborate with likeminded individuals and aim to create innovative solutions that address real-world challenges.
+I am a software developer passionate about creating tech-driven solutions for our interconnected world. My user-centric approach and diverse professional experiences provide me with a unique and practical perspective on problem-solving. Currently specializing in e-commerce, I stay at the forefront of industry trends and emerging technologies to continuously enhance my skills. Additionally, I mentor aspiring frontend developers, contributing to the growth of the next generation of tech talent. I am eager to collaborate with other professionals to develop innovative solutions that address real-world challenges.
+
+
 
  <p align="left">
       <a href="https://github.com/SobczakL?tab=followers">
