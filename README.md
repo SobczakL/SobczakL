@@ -1,6 +1,6 @@
 # ⌨️ Lucas Sobczak
 
-**`Software Developer`**
+**`Full Stack Developer`**
 
 I am a software developer passionate about creating tech-driven solutions for our interconnected world. My user-centric approach and diverse professional experiences provide me with a unique and practical perspective on problem-solving. Currently specializing in e-commerce, I stay at the forefront of industry trends and emerging technologies to continuously enhance my skills. Additionally, I mentor aspiring frontend developers, contributing to the growth of the next generation of tech talent. I am eager to collaborate with other professionals to develop innovative solutions that address real-world challenges.
 
