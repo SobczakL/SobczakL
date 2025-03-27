@@ -35,7 +35,7 @@ I am a software developer passionate about creating tech-driven solutions for ou
 ---
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Programming Journey</h3></summary>
  <p>In 2020, during the COVID-19 pandemic, I began learning Python to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of bringing my creations to life. This ignited my self-study journey, where I delved into using Python to interact with my operating system and began Harvard's open-source CS101 course.</p>
 <br/>
 <p>
