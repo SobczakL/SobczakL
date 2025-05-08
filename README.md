@@ -2,8 +2,9 @@
 
 **`Full Stack Developer`**
 
-I am a software developer passionate about creating tech-driven solutions for our interconnected world. My user-centric approach and diverse professional experiences provide me with a unique and practical perspective on problem-solving. Currently specializing in e-commerce, I stay at the forefront of industry trends and emerging technologies to continuously enhance my skills. Additionally, I mentor aspiring frontend developers, contributing to the growth of the next generation of tech talent. I am eager to collaborate with other professionals to develop innovative solutions that address real-world challenges.
-
+🚀 Full Stack Developer | Crafting user-centric solutions for a connected world.
+💡 Passionate about leveraging technology to solve real-world problems, currently innovating in e-commerce.
+🌱 Mentoring aspiring developers & always eager to collaborate on impactful projects.
 
 
  <p align="left">
@@ -22,8 +23,7 @@ I am a software developer passionate about creating tech-driven solutions for ou
 <img align="left" alt="JavaScript" width="30px" style="padding:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
@@ -36,16 +36,17 @@ I am a software developer passionate about creating tech-driven solutions for ou
 
 <details>
  <summary><h3>👨‍💻 My Programming Journey</h3></summary>
- <p>In 2020, during the COVID-19 pandemic, I began learning Python to pass the time. To my surprise, I quickly fell in love with programming and decided to explore its possibilities further. Starting with games and websites, I enjoyed the hands-on experience of bringing my creations to life. This ignited my self-study journey, where I delved into using Python to interact with my operating system and began Harvard's open-source CS101 course.</p>
-<br/>
-<p>
-Initially, I never considered programming as a potential career due to misconceptions about the need for extensive mathematical skills. However, after dedicating about a year to small projects, I decided to take my learning more seriously. Overcoming my self-doubts, I committed to a daily routine of coding, reading, utilizing online resources, and following tutorials to expand my knowledge.
+ <p>The quiet of the 2020 pandemic was when I first discovered Python. It started as a way to fill time, but I was quickly captivated by the power of programming. Building my first games and websites, I felt the unique satisfaction of creation, which set me on a path of self-directed learning, including exploring Python's OS capabilities and Harvard's CS101.</p>
+ <br/>
+ <p>
+For a while, I didn't consider programming a viable career, mistakenly believing it required an advanced math background. But after a year of dedicated personal projects, the pull was too strong. I decided to overcome my hesitations, committing to a disciplined daily practice of coding, studying, and absorbing knowledge from every available resource.
 </p>
-<br/>
-<p>
-Balancing my career and study schedule proved challenging, so I sought additional support by enrolling in a boot camp. This experience provided the boost I needed to overcome the plateau I was facing and increased my confidence in adopting new technologies. I am proud of the decision I made to embark on this new career journey. It has not only allowed me to grow my technical skills but also introduced me to a welcoming community where I feel a strong sense of belonging and pride.
+ <br/>
+ <p>
+Balancing my existing career with this intense learning curve was a challenge, prompting me to join a bootcamp for focused growth. That immersive experience was pivotal, helping me overcome hurdles and build the confidence to embrace new technologies rapidly. I'm immensely proud of taking that leap; it's led to profound skill development and a wonderful sense of belonging within the tech community.
 </p>
-<br/>
-<p>
-Every day, I strive to push myself further. Programming has become an integral part of my life and has positively impacted my overall well-being. Throughout my learning journey, I have noticed significant changes in my thinking process: I have nurtured my curiosity, strengthened my problem-solving skills, and developed a tenacity that drives me to one day become a leader in the field. I look forward to what lies ahead in this lifelong journey.
+ <br/>
+ <p>
+This journey continues to transform me. Programming isn't just what I do; it's influenced how I think – fostering greater curiosity, sharper problem-solving, and a resilient spirit. My goal is to keep growing, learning, and eventually contribute as a leader. I eagerly anticipate the future chapters of this ongoing exploration.
 </p>
+</details>
