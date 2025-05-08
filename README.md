@@ -4,7 +4,7 @@
 
 🚀 Full Stack Developer | Crafting user-centric solutions for a connected world.
 💡 Passionate about leveraging technology to solve real-world problems, currently innovating in e-commerce.
-🌱 Mentoring aspiring developers & always eager to collaborate on impactful projects.
+🌱 Always looking to collaborate on impactful projects!
 
 
  <p align="left">
