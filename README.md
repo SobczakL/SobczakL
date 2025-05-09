@@ -2,9 +2,9 @@
 
 **`Full Stack Developer`**
 
-🚀 Full Stack Developer | Crafting user-centric solutions for a connected world.
-💡 Passionate about leveraging technology to solve real-world problems, currently innovating in e-commerce.
-🌱 Always looking to collaborate on impactful projects!
+🚀 Full Stack Developer | Crafting user-centric solutions for a connected world.</br>
+💡 Passionate about leveraging technology to solve real-world problems, currently innovating in e-commerce.</br>
+🌱 Always looking to collaborate on impactful projects!</br>
 
 
  <p align="left">
