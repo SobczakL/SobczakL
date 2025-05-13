@@ -35,7 +35,7 @@
 ---
 
 <details>
- <summary><h3>👨‍💻 My Programming Journey</h3></summary>
+ <summary><h3>👨‍💻 My Programming Journey </h3></summary>
  <p>The quiet of the 2020 pandemic was when I first discovered Python. It started as a way to fill time, but I was quickly captivated by the power of programming. Building my first games and websites, I felt the unique satisfaction of creation, which set me on a path of self-directed learning, including exploring Python's OS capabilities and Harvard's CS101.</p>
  <br/>
  <p>
