@@ -28,17 +28,6 @@ Currently developing deeper expertise in Go, SQL, PostgreSQL, Docker, Linux, and
 
 ---
 
-## What I’m Focused On
-
-- Backend services and APIs
-- Data ingestion and transformation
-- Data modelling and quality validation
-- Internal tools and workflow automation
-- Linux, containers, and reliable deployment
-- Understanding the trade-offs behind dependable systems
-
----
-
 ## Background
 
 My background combines software engineering, analytics, merchandising, and product operations. It taught me to approach software from both sides: how a system works technically and whether it solves the right operational problem.
